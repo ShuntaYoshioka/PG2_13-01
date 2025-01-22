@@ -4,8 +4,6 @@
 
 const char kWindowTitle[] = "Ltest";
 
-using namespace std;
-
 Enemy enemy1;
 
 Enemy enemy2;
